@@ -1,0 +1,5 @@
+session_id,user_id,stress_level_pre,stress_level_post,therapy_type
+1,101,7,4,CBT
+2,101,6,3,CBT
+3,102,8,5,Mindfulness
+4,103,9,6,CBT
